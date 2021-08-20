@@ -1,5 +1,5 @@
 import React from 'react';
-import { Provider } from 'react-reducers';
+import { Provider } from 'react-redux';
 
 // Open /utils/CarContext.js and import { Provider } from react-redux and store from ./store.
 import store from './store';
